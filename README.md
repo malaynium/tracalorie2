@@ -1,5 +1,5 @@
 # tracalorie2
-# Meal & Calorie tracker.
+## Meal & Calorie tracker.
 # Use java script module pattern.
 # use local stroage
 # Use pure vanilla JS.No framework or library.
